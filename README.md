@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Grechkin77Anton)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+:smile:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
