@@ -6,5 +6,5 @@
 <li>Телеграм: @AntonGrechkin</li>
 <li>Email: grechkin_a@internet.ru</li>
 <h3>Стек</h3>
-<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='ReactJS'>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
