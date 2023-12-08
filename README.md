@@ -2,7 +2,7 @@
 <h3 align="center">Начинающий Front-end разработчик :computer:</h3>
 <h3>О себе</h3>
 <p> Живу в городе Томске :triangular_flag_on_post: Изучаю и развиваюсь во Front-end разработке. Увлекаюсь музыкой, литературой и путешествиями по городам России :airplane: Играю в футбол :soccer:.</p>
-<h3>Контакты</h3>
+<h3>Контакты :page_with_curl: </h3>
 <li><b>Телеграм:</b> @AntonGrechkin</li>
 <li><b>Email:</b> grechkin_a@internet.ru</li>
 <h3>Стек</h3>
