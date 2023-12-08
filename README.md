@@ -1,7 +1,7 @@
 <h1 align="center">Всем привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> , я Антон Гречкин </h1>
 <h3 align="center">Начинающий Front-end разработчик :computer:</h3>
 <h3>О себе</h3>
-<p> Живу в городе Томске. Изучаю и развиваюсь во Front-end разработке. Увлекаюсь музыкой :microphone: и путешествиями по городам России :airplane: . Играю в футбол :soccer: . </p>
+<p> Живу в городе Томске. Изучаю и развиваюсь во Front-end разработке. Увлекаюсь музыкой :microphone: и путешествиями по городам России :airplane: . Играю в футбол :soccer: </p>
 <h3>Контакты</h3>
 <li><b>Телеграм:</b> @AntonGrechkin</li>
 <li><b>Email:</b> grechkin_a@internet.ru</li>
