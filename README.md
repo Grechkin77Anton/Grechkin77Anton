@@ -3,5 +3,5 @@
 <h3>О себе</h3>
 <p> Живу в городе Томске. Увлекаюсь музыкой и путешествиями по городам России. Играю в футбол.Изучать и развиваюсь во Front-end разработке</p>
 <h3>Контакты</h3>
-<li>Телеграм: <a>@AntonGrechkin</a></li>
-<li>Email: grechkin_a@internet.ru</li>
+<li>Телеграм: @AntonGrechkin</li>
+<li>Email: <a>grechkin_a@internet.ru</a></li>
